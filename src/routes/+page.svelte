@@ -1,4 +1,5 @@
 <script>
+    import Map from "$lib/components/Map.svelte";
 </script>
 
-<h1 class="md:pt-[70px]">Home Page</h1>
+<Map />
